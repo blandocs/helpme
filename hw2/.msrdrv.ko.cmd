@@ -1,0 +1,1 @@
+cmd_/home/hyunsu/system_programming/hw2/msrdrv.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-37-generic/scripts/module-common.lds --build-id  -o /home/hyunsu/system_programming/hw2/msrdrv.ko /home/hyunsu/system_programming/hw2/msrdrv.o /home/hyunsu/system_programming/hw2/msrdrv.mod.o
